@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its a logic circuit which Output the letter a all the time in 7 segment display. When any input is on then the output changes.
 
 ## How to test
 
-Explain how to use your project
+When the clock running it should show A. If it any input turned on. It will change the display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display
